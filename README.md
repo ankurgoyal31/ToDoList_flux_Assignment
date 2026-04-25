@@ -4,12 +4,6 @@ A full-stack task management application built with React and Node.js, featuring
 
 ---
 
-## 🚀 Demo
-
-Try the live demo: [https://todolistassignment-production.up.railway.app/](https://todolistassignment-production.up.railway.app/)
-
----
-
 ## ✨ Features
 
 ### 🔐 Authentication & Security
