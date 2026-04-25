@@ -135,13 +135,6 @@ Try the live demo: [https://todolistassignment-production.up.railway.app/](https
     npm start
     ```
 
-## 🚀 Demo
-
-Try the live demo: [https://todolistassignment-production.up.railway.app/](https://todolistassignment-production.up.railway.app/)
-
----
-
-
 ## 📁 Project Structure
 
 ```
